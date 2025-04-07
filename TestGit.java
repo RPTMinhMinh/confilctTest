@@ -18,4 +18,5 @@ public class TestGit {
 //  tạo nhánh mới và truy cập nhánh mới bằng git checkout -b ten_nhanh
 //  kiểm tra nhánh bằng lệnh git branch (chuyển nhánh bằng git checkout ten_nhanh)
 //  code vào nhánh đó và commit lên
-//  merge request vào nhánh test và tag maintainer vào review (vào git merge)
+//  c1: merge request vào nhánh test và tag maintainer vào review (vào git merge)
+//  c2: vào nhánh develop sử dụng lệnh git merge ten_nhanh push lên nhánh develop
