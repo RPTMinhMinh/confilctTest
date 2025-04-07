@@ -11,6 +11,7 @@ public class TestGit {
     Stream<String> stream = list.stream();
 //    stream.forEach(System.out::println);
     stream.filter(i -> i.equals("a")).forEach(System.out::println);
+    System.out.println("Hello World");
   }
 }
 
