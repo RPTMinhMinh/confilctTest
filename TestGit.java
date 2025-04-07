@@ -21,3 +21,8 @@ public class TestGit {
 //  code vào nhánh đó và commit lên
 //  c1: merge request vào nhánh test và tag maintainer vào review (vào git merge)
 //  c2: vào nhánh develop sử dụng lệnh git merge ten_nhanh push lên nhánh develop
+
+
+/*
+test merge
+ */
