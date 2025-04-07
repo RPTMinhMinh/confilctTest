@@ -12,7 +12,7 @@ public class TestGit {
 //    stream.forEach(System.out::println);
     stream.filter(i -> i.equals("a")).forEach(System.out::println);
     System.out.println("Hello World");
-    System.out.println("hehe") ;
+    System.out.println("hehi");
   }
 }
 
@@ -25,5 +25,5 @@ public class TestGit {
 
 
 /*
-test merge
+test merge develop2
  */
