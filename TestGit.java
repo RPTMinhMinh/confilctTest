@@ -14,6 +14,7 @@ public class TestGit {
     System.out.println("Hello World");
     System.out.println("hehe");
     System.out.println("hello, develop");
+    System.out.println("Start Testing");
     System.out.println("Testing...");
     System.out.println("Done!!!");
   }
