@@ -13,6 +13,7 @@ public class TestGit {
     stream.filter(i -> i.equals("a")).forEach(System.out::println);
     System.out.println("Hello World");
     System.out.println("hehi");
+    System.out.println("hello, cat");
   }
 }
 
