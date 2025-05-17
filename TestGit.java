@@ -17,6 +17,7 @@ public class TestGit {
     System.out.println("Start Testing");
     System.out.println("Testing...");
     System.out.println("Done!!!");
+    System.out.println("aaa");
   }
 }
 
