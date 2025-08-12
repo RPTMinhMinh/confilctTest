@@ -1,18 +1,16 @@
-import java.util.List;
-import java.util.stream.Stream;
 
 public class TestGit {
   public static void main(String[] args) {
-    System.out.println("test");
-    System.out.println("develop");
-    System.out.println("eeee");
-    List<String> list = List.of("a", "b", "c");
-    list.forEach(System.out::println);
-    Stream<String> stream = list.stream();
-//    stream.forEach(System.out::println);
-    stream.filter(i -> i.equals("a")).forEach(System.out::println);
-    System.out.println("Hello World");
-    System.out.println("hehi");
+    System.out.println("1");
+    System.out.println("2");
+    System.out.println("3");
+    System.out.println("4");
+    System.out.println("5");
+    System.out.println("6");
+    System.out.println("7");
+    System.out.println("9");
+    System.out.println("9");
+    System.out.println("10");
   }
 }
 
